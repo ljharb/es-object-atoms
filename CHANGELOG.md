@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Commits
 
-- Initial implementation, tests, readme, types [`f1499db`](https://github.com/ljharb/es-object/commit/f1499db7d3e1741e64979c61d645ab3137705e82)
-- Initial commit [`99eedc7`](https://github.com/ljharb/es-object/commit/99eedc7b5fde38a50a28d3c8b724706e3e4c5f6a)
-- npm init [`b909377`](https://github.com/ljharb/es-object/commit/b909377c50049bd0ec575562d20b0f9ebae8947f)
-- Only apps should have lockfiles [`7249edd`](https://github.com/ljharb/es-object/commit/7249edd2178c1b9ddfc66ffcc6d07fdf0d28efc1)
+- Initial implementation, tests, readme, types [`f1499db`](https://github.com/ljharb/es-object-atoms/commit/f1499db7d3e1741e64979c61d645ab3137705e82)
+- Initial commit [`99eedc7`](https://github.com/ljharb/es-object-atoms/commit/99eedc7b5fde38a50a28d3c8b724706e3e4c5f6a)
+- npm init [`b909377`](https://github.com/ljharb/es-object-atoms/commit/b909377c50049bd0ec575562d20b0f9ebae8947f)
+- Only apps should have lockfiles [`7249edd`](https://github.com/ljharb/es-object-atoms/commit/7249edd2178c1b9ddfc66ffcc6d07fdf0d28efc1)

@@ -1,5 +1,5 @@
 {
-	"name": "es-object",
+	"name": "es-object-atoms",
 	"version": "1.0.0",
 	"description": "ES Object-related atoms: Object, ToObject, RequireObjectCoercible",
 	"main": "index.js",
@@ -26,7 +26,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ljharb/es-object.git"
+		"url": "git+https://github.com/ljharb/es-object-atoms.git"
 	},
 	"keywords": [
 		"javascript",
@@ -38,9 +38,9 @@
 	"author": "Jordan Harband <ljharb@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ljharb/es-object/issues"
+		"url": "https://github.com/ljharb/es-object-atoms/issues"
 	},
-	"homepage": "https://github.com/ljharb/es-object#readme",
+	"homepage": "https://github.com/ljharb/es-object-atoms#readme",
 	"dependencies": {
 		"es-errors": "^1.3.0"
 	},
