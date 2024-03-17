@@ -1,6 +1,6 @@
 {
 	"name": "es-object",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "ES Object-related atoms: Object, ToObject, RequireObjectCoercible",
 	"main": "index.js",
 	"exports": {
